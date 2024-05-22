@@ -1,0 +1,28 @@
+{
+  "files": {
+    "exercises/exercise_11.py": [
+      {
+        "id": "2dfc8eab-23a1-4d9b-9802-26b33b77a92c",
+        "line": 12,
+        "version": 604,
+        "index": 208
+      }
+    ],
+    "exercises/exercise_3.py": [
+      {
+        "id": "9ec20197-0ea5-49b9-a59b-b9cc047642ca",
+        "line": 14,
+        "version": 617,
+        "index": 339
+      }
+    ],
+    "exercises/exercise_8.py": [
+      {
+        "id": "132da364-9148-4b48-af02-af7f4a5bfccb",
+        "line": 5,
+        "version": 173,
+        "index": 74
+      }
+    ]
+  }
+}
